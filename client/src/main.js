@@ -1,10 +1,18 @@
 import Vue from 'vue'
 import App from './App.vue'
-import router from './router'
 
 Vue.config.productionTip = false
 
+console.log('hello');
+
+function bar ( ){}
+
+const baz = 'aflskdjsd' + 2;
+
+
+
+baz * baz;
+
 new Vue({
-  router,
-  render: h => h(App)
+	render: h => h(App),
 }).$mount('#app')

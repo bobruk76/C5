@@ -36,6 +36,8 @@
 
   console.log(foo())
 
+  alert('hello')
+
 
 
 </script>
