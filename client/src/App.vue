@@ -30,3 +30,12 @@
   color: #42b983;
 }
 </style>
+
+<script>
+  function foo() {}
+
+  console.log(foo())
+
+
+
+</script>

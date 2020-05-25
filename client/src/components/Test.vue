@@ -1,4 +1,6 @@
-
+<template>
+    <p>Привет!</p>
+</template>
 <script>
     const obj = {
     foo: {
